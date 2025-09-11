@@ -7,7 +7,15 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>Example Person</copyright>
-        <lastBuildDate>Wed, 09 Sep 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://huaaaajjj.github.i0/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Thu, 11 Sep 2025 17:06:08 +0800</lastBuildDate><atom:link href="https://huaaaajjj.github.i0/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Test</title>
+        <link>https://huaaaajjj.github.i0/p/test/</link>
+        <pubDate>Thu, 11 Sep 2025 17:06:08 +0800</pubDate>
+        
+        <guid>https://huaaaajjj.github.i0/p/test/</guid>
+        <description></description>
+        </item>
+        <item>
         <title>Chinese Test</title>
         <link>https://huaaaajjj.github.i0/p/test-chinese/</link>
         <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
