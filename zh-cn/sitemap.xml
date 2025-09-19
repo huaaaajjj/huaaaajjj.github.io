@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://huaaaajjj.github.i0/</loc>
-    <lastmod>2025-09-11T17:06:08+08:00</lastmod>
+    <lastmod>2025-09-17T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -16,7 +16,32 @@
                 />
   </url><url>
     <loc>https://huaaaajjj.github.i0/post/</loc>
-    <lastmod>2025-09-11T17:06:08+08:00</lastmod>
+    <lastmod>2025-09-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://huaaaajjj.github.i0/tags/</loc>
+    <lastmod>2025-09-17T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://huaaaajjj.github.i0/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://huaaaajjj.github.i0/tags/"
+                />
+  </url><url>
+    <loc>https://huaaaajjj.github.i0/p/%E5%9C%B0%E6%8E%A8/</loc>
+    <lastmod>2025-09-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://huaaaajjj.github.i0/tags/%E5%9C%B0%E6%8E%A8/</loc>
+    <lastmod>2025-09-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://huaaaajjj.github.i0/tags/%E5%AF%B9%E8%AF%9D/</loc>
+    <lastmod>2025-09-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://huaaaajjj.github.i0/tags/%E9%9A%8F%E7%AC%94/</loc>
+    <lastmod>2025-09-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://huaaaajjj.github.i0/p/test/</loc>
     <lastmod>2025-09-11T17:06:08+08:00</lastmod>
@@ -63,19 +88,6 @@
   </url><url>
     <loc>https://huaaaajjj.github.i0/categories/syntax/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://huaaaajjj.github.i0/tags/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://huaaaajjj.github.i0/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://huaaaajjj.github.i0/tags/"
-                />
   </url><url>
     <loc>https://huaaaajjj.github.i0/categories/themes/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
